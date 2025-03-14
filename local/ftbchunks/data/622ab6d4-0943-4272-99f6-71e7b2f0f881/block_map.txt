@@ -1,0 +1,9 @@
+#840F59 minecraft:bedrock
+#ACBBA7 kubejs:case_creator
+#D55128 just_bees:centrifuge
+#C93E98 actuallyadditions:coffee_machine
+#FDCD6A custommachinery:custom_machine_block
+#16D43D ironchest:diamond_chest
+#80497A minecraft:dirt
+#3F84B7 minecraft:grass_block
+#A94FD1 kubejs:mana

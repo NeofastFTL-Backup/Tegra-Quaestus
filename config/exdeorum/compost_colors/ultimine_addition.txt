@@ -1,0 +1,11 @@
+// Compost colors for ultimine_addition. You may add your own colors, change existing ones, or remove colors that aren't needed.
+card_blueprint, #788ef1
+ink_chamber, #899190
+miner_certificate, #ffcab4
+mining_skill_card_axe, #d4caae
+mining_skill_card_empty, #dcd2b5
+mining_skill_card_hoe, #d4caaf
+mining_skill_card_pickaxe, #d3c9ae
+mining_skill_card_shovel, #d4ccaf
+pen, #ffd94a
+skills_record, #ffebb8

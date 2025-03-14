@@ -1,0 +1,6 @@
+[13:00:15.084][INFO]: Parsing all .json files in machines folder.
+[13:00:15.102][INFO]: Finished, 0 .json files successfully parsed in machines folder.
+[13:00:26.015][INFO]: Reading Modular Machinery Reborn Machines...
+[13:00:26.016][INFO]: Collecting machines with kubeJS.
+[13:00:26.019][INFO]: No machines found with kubejs
+[13:00:26.019][INFO]: Finished creating 0 modular machines.

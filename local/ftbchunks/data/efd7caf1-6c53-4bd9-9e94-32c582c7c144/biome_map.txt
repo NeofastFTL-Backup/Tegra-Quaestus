@@ -1,0 +1,3 @@
+#008 minecraft:desert
+#5FF minecraft:river
+#1C9 minecraft:wooded_badlands

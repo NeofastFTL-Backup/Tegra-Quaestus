@@ -1,0 +1,40 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "intro"
+	group: "19D96B95BDCFE859"
+	id: "1981F1C72AA44A51"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			id: "5972403A60743708"
+			tasks: [{
+				id: "78E7313DA27DC633"
+				type: "checkmark"
+			}]
+			x: -0.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["5972403A60743708"]
+			id: "398F0E8D8E537B45"
+			rewards: [{
+				auto: "invisible"
+				exclude_from_claim_all: true
+				icon: {
+					id: "minecraft:diamond_block"
+				}
+				id: "6C0A6D4065F530E9"
+				table_id: 8149816481403826120L
+				type: "all_table"
+			}]
+			tasks: [{
+				id: "59080087C0254109"
+				type: "checkmark"
+			}]
+			x: -0.5d
+			y: 3.0d
+		}
+	]
+}

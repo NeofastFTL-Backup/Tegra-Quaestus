@@ -1,0 +1,99 @@
+---- Minecraft Crash Report ----
+// My bad.
+
+Time: 2025-03-14 08:43:05
+Description: Mod loading failures have occurred; consult the issue messages for more details
+
+net.neoforged.neoforge.logging.CrashReportExtender$ModLoadingCrashException: Mod loading has failed
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Mod loading issue for: industrialforegoingsouls --
+Details:
+	Mod file: /C:/Users/NeofastFTL/curseforge/minecraft/Instances/Tegra Quaestus/mods/industrial-foregoing-souls-1.21.1-1.10.4.jar
+	Failure message: Mod industrialforegoingsouls requires titanium 4.0.32 or above
+		Currently, titanium is 4.0.28
+		
+	Mod version: 1.10.4
+	Mod issues URL: <No issues URL found>
+	Exception message: <No associated exception found>
+
+-- System Details --
+Details:
+	Minecraft Version: 1.21.1
+	Minecraft Version ID: 1.21.1
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 21.0.6, Eclipse Adoptium
+	Java VM Version: OpenJDK 64-Bit Server VM (mixed mode, sharing), Eclipse Adoptium
+	Memory: 379844376 bytes (362 MiB) / 1006632960 bytes (960 MiB) up to 4697620480 bytes (4480 MiB)
+	CPUs: 12
+	Processor Vendor: GenuineIntel
+	Processor Name: 13th Gen Intel(R) Core(TM) i5-1335U
+	Identifier: Intel64 Family 6 Model 186 Stepping 3
+	Microarchitecture: Raptor Lake
+	Frequency (GHz): 2.50
+	Number of physical packages: 1
+	Number of physical CPUs: 10
+	Number of logical CPUs: 12
+	Graphics card #0 name: Intel(R) Iris(R) Xe Graphics
+	Graphics card #0 vendor: Intel Corporation
+	Graphics card #0 VRAM (MiB): 2048.00
+	Graphics card #0 deviceId: VideoController1
+	Graphics card #0 versionInfo: 32.0.101.6458
+	Memory slot #0 capacity (MiB): 2048.00
+	Memory slot #0 clockSpeed (GHz): 6.40
+	Memory slot #0 type: Unknown
+	Memory slot #1 capacity (MiB): 2048.00
+	Memory slot #1 clockSpeed (GHz): 6.40
+	Memory slot #1 type: Unknown
+	Memory slot #2 capacity (MiB): 2048.00
+	Memory slot #2 clockSpeed (GHz): 6.40
+	Memory slot #2 type: Unknown
+	Memory slot #3 capacity (MiB): 2048.00
+	Memory slot #3 clockSpeed (GHz): 6.40
+	Memory slot #3 type: Unknown
+	Memory slot #4 capacity (MiB): 2048.00
+	Memory slot #4 clockSpeed (GHz): 6.40
+	Memory slot #4 type: Unknown
+	Memory slot #5 capacity (MiB): 2048.00
+	Memory slot #5 clockSpeed (GHz): 6.40
+	Memory slot #5 type: Unknown
+	Memory slot #6 capacity (MiB): 2048.00
+	Memory slot #6 clockSpeed (GHz): 6.40
+	Memory slot #6 type: Unknown
+	Memory slot #7 capacity (MiB): 2048.00
+	Memory slot #7 clockSpeed (GHz): 6.40
+	Memory slot #7 type: Unknown
+	Virtual memory max (MiB): 39623.99
+	Virtual memory used (MiB): 16795.93
+	Swap memory total (MiB): 23552.00
+	Swap memory used (MiB): 550.60
+	Space in storage for jna.tmpdir (MiB): available: 43634.15, total: 255782.00
+	Space in storage for org.lwjgl.system.SharedLibraryExtractPath (MiB): available: 43634.15, total: 255782.00
+	Space in storage for io.netty.native.workdir (MiB): available: 43634.15, total: 255782.00
+	Space in storage for java.io.tmpdir (MiB): available: 43634.15, total: 255782.00
+	Space in storage for workdir (MiB): available: 43634.15, total: 255782.00
+	JVM Flags: 10 total; -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xss1M -Xmx4480m -Xms256m -XX:+UseG1GC -XX:+UnlockExperimentalVMOptions -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=51 -XX:G1HeapRegionSize=32M
+	ModLauncher: 11.0.4+main.d2e20e43
+	ModLauncher launch target: forgeclient
+	ModLauncher services: 
+		sponge-mixin-0.15.2+mixin.0.8.7.jar mixin PLUGINSERVICE 
+		loader-4.0.38.jar slf4jfixer PLUGINSERVICE 
+		loader-4.0.38.jar runtime_enum_extender PLUGINSERVICE 
+		at-modlauncher-10.0.1.jar accesstransformer PLUGINSERVICE 
+		loader-4.0.38.jar runtimedistcleaner PLUGINSERVICE 
+		modlauncher-11.0.4.jar mixin TRANSFORMATIONSERVICE 
+		modlauncher-11.0.4.jar fml TRANSFORMATIONSERVICE 
+		modlauncher-11.0.4.jar crash_assistant TRANSFORMATIONSERVICE 
+	FML Language Providers: 
+		gml@7.0.3
+		kotlinforforge@5.7.0
+		Configured Defaults@21.1.3
+		javafml@4.0
+		lowcodefml@4.0
+		minecraft@4.0
+	Mod List: 
+		client-1.21.1-20240808.144430-srg.jar             |Minecraft                     |minecraft                     |1.21.1              |Manifest: a1:d4:5e:04:4f:d3:d6:e0:7b:37:97:cf:77:b0:de:ad:4a:47:ce:8c:96:49:5f:0a:cf:8c:ae:b2:6d:4b:8a:3f
+		neoforge-21.1.133-universal.jar                   |NeoForge                      |neoforge                      |21.1.133            |Manifest: NOSIGNATURE

@@ -1,0 +1,17 @@
+{
+  "__comment": "Instructions: https://blakesmods.com/docs/cucumber/tags-config",
+  "c:ingots/zinc": "gtceu:zinc_ingot",
+  "c:gems/sapphire": "gtceu:sapphire_gem",
+  "c:gems/ruby": "gtceu:ruby_gem",
+  "c:dusts/niter": "eternalores:niter_dust",
+  "c:silicon": "enderio:silicon",
+  "c:gems/apatite": "gtceu:apatite_gem",
+  "c:ingots/brass": "gtceu:brass_ingot",
+  "c:dusts/saltpeter": "immersiveengineering:dust_saltpeter",
+  "c:rubbers": "null",
+  "c:ingots/graphite": "bigreactors:graphite_ingot",
+  "c:gems/peridot": "eternalores:gem_peridot",
+  "c:ingots/iridium": "gtceu:iridium_ingot",
+  "c:ingots/invar": "gtceu:invar_ingot",
+  "c:ingots/platinum": "gtceu:platinum_ingot"
+}

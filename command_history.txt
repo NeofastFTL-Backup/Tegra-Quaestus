@@ -1,0 +1,39 @@
+/reload
+/kubejs generate-typings
+/reload
+/morejd
+/reload
+/summon minecraft:villager
+/kubejs hand
+/reload
+/kill @e[type=minecraft:villager]
+/kubejs hand
+/reload
+/kubejs hand
+/reload
+/kubejs hand
+/
+/kubejs hand
+/reload
+/gamemode survival
+/gamemode creative
+/gamemode survival
+/gamemode creative
+/reload
+/clear
+/gamemode survival
+/give @a ae2:drive 64
+/give @a ae2:cell_component_256k 64
+/give @a ae2:item_storage_cell_256k 64
+/clear
+/give @a extendedae:ex_pattern_provider 64
+/kubejs hand
+/reload
+/kubejs packmode basic
+/kubejs packmode expert
+/kubejs packmode basic
+/reload
+/kubejs packmode expert
+/reload
+/kubejs packmode basic
+/reload

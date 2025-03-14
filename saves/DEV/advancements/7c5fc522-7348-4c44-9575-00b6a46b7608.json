@@ -1,0 +1,1538 @@
+{
+  "mffs:grant_book_on_first_join": {
+    "criteria": {
+      "guidebook": "2025-02-24 21:59:57 +0100"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/one_stack_upgrade": {
+    "criteria": {
+      "has_template": "2025-02-24 21:59:58 +0100"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipe/wireless_universal_terminal/upgrade_pattern_access": {
+    "criteria": {
+      "has_wit": "2025-02-24 21:59:58 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-02-24 21:59:58 +0100"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/dark_oak_drawers": {
+    "criteria": {
+      "has_chest": "2025-02-24 21:59:58 +0100"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/illumination_upgrade": {
+    "criteria": {
+      "has_template": "2025-02-24 21:59:58 +0100"
+    },
+    "done": true
+  },
+  "mekanism:root": {
+    "criteria": {
+      "automatic": "2025-02-24 21:59:58 +0100"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/remote_upgrade": {
+    "criteria": {
+      "has_template": "2025-02-24 21:59:58 +0100"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/cherry_drawers": {
+    "criteria": {
+      "has_chest": "2025-02-24 21:59:58 +0100"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/personal_key_cofh": {
+    "criteria": {
+      "has_template": "2025-02-24 21:59:58 +0100"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/bamboo_drawers": {
+    "criteria": {
+      "has_chest": "2025-02-24 21:59:58 +0100"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/acacia_trim": {
+    "criteria": {
+      "has_planks": "2025-02-24 21:59:58 +0100"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/priority_key": {
+    "criteria": {
+      "has_template": "2025-02-24 21:59:58 +0100"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipe/wireless_pattern_encoding_terminal": {
+    "criteria": {
+      "has_wt": "2025-02-24 21:59:58 +0100"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipe/wireless_universal_terminal/upgrade_crafting": {
+    "criteria": {
+      "has_wct": "2025-02-24 21:59:58 +0100"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/warped_drawers": {
+    "criteria": {
+      "has_chest": "2025-02-24 21:59:58 +0100"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/cherry_trim": {
+    "criteria": {
+      "has_planks": "2025-02-24 21:59:58 +0100"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/framing_table": {
+    "criteria": {
+      "has_chest": "2025-02-24 21:59:58 +0100"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/gold_storage_upgrade": {
+    "criteria": {
+      "has_template": "2025-02-24 21:59:58 +0100"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipe/magnet_card": {
+    "criteria": {
+      "has_wct": "2025-02-24 21:59:58 +0100"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/jungle_drawers": {
+    "criteria": {
+      "has_chest": "2025-02-24 21:59:58 +0100"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/birch_trim": {
+    "criteria": {
+      "has_planks": "2025-02-24 21:59:58 +0100"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/void_upgrade": {
+    "criteria": {
+      "has_template": "2025-02-24 21:59:58 +0100"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/fill_level_upgrade": {
+    "criteria": {
+      "has_template": "2025-02-24 21:59:58 +0100"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/crimson_drawers": {
+    "criteria": {
+      "has_chest": "2025-02-24 21:59:58 +0100"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipe/wireless_pattern_access_terminal": {
+    "criteria": {
+      "has_wt": "2025-02-24 21:59:58 +0100"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipe/wireless_universal_terminal/upgrade_pattern_encoding": {
+    "criteria": {
+      "has_wpt": "2025-02-24 21:59:58 +0100"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipe/quantum_bridge_card": {
+    "criteria": {
+      "has_wit": "2025-02-24 21:59:58 +0100",
+      "has_wpt": "2025-02-24 21:59:58 +0100",
+      "has_wct": "2025-02-24 21:59:58 +0100"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/oak_trim": {
+    "criteria": {
+      "has_planks": "2025-02-24 21:59:58 +0100"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/emerald_storage_upgrade": {
+    "criteria": {
+      "has_template": "2025-02-24 21:59:58 +0100"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/obsidian_storage_upgrade": {
+    "criteria": {
+      "has_template": "2025-02-24 21:59:58 +0100"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/iron_storage_upgrade": {
+    "criteria": {
+      "has_template": "2025-02-24 21:59:58 +0100"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipe/wireless_universal_terminal/ce": {
+    "criteria": {
+      "has_wpt": "2025-02-24 21:59:58 +0100",
+      "has_wct": "2025-02-24 21:59:58 +0100"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipe/wireless_universal_terminal/ca": {
+    "criteria": {
+      "has_wit": "2025-02-24 21:59:58 +0100",
+      "has_wct": "2025-02-24 21:59:58 +0100"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/compacting_drawers": {
+    "criteria": {
+      "has_chest": "2025-02-24 21:59:58 +0100"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/diamond_storage_upgrade": {
+    "criteria": {
+      "has_template": "2025-02-24 21:59:58 +0100"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/acacia_drawers": {
+    "criteria": {
+      "has_chest": "2025-02-24 21:59:58 +0100"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/remote_group_upgrade": {
+    "criteria": {
+      "has_template": "2025-02-24 21:59:58 +0100"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/drawer_puller": {
+    "criteria": {
+      "has_template": "2025-02-24 21:59:58 +0100"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipe/wireless_universal_terminal/ae": {
+    "criteria": {
+      "has_wit": "2025-02-24 21:59:58 +0100",
+      "has_wpt": "2025-02-24 21:59:58 +0100"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/crimson_trim": {
+    "criteria": {
+      "has_planks": "2025-02-24 21:59:58 +0100"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/shroud_key": {
+    "criteria": {
+      "has_template": "2025-02-24 21:59:58 +0100"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/portability_upgrade": {
+    "criteria": {
+      "has_template": "2025-02-24 21:59:58 +0100"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/upgrade_template": {
+    "criteria": {
+      "has_chest": "2025-02-24 21:59:58 +0100"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/drawer_key": {
+    "criteria": {
+      "has_template": "2025-02-24 21:59:58 +0100"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/oak_drawers": {
+    "criteria": {
+      "has_chest": "2025-02-24 21:59:58 +0100"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/min_redstone_upgrade": {
+    "criteria": {
+      "has_template": "2025-02-24 21:59:58 +0100"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/keyring": {
+    "criteria": {
+      "has_template": "2025-02-24 21:59:58 +0100"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/detached_drawer": {
+    "criteria": {
+      "has_chest": "2025-02-24 21:59:58 +0100"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/personal_key": {
+    "criteria": {
+      "has_template": "2025-02-24 21:59:58 +0100"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/warped_trim": {
+    "criteria": {
+      "has_planks": "2025-02-24 21:59:58 +0100"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/jungle_trim": {
+    "criteria": {
+      "has_planks": "2025-02-24 21:59:58 +0100"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/max_redstone_upgrade": {
+    "criteria": {
+      "has_template": "2025-02-24 21:59:58 +0100"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/mangrove_drawers": {
+    "criteria": {
+      "has_chest": "2025-02-24 21:59:58 +0100"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/birch_drawers": {
+    "criteria": {
+      "has_chest": "2025-02-24 21:59:58 +0100"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/controller": {
+    "criteria": {
+      "has_chest": "2025-02-24 21:59:58 +0100"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/bamboo_trim": {
+    "criteria": {
+      "has_planks": "2025-02-24 21:59:58 +0100"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/controller_io": {
+    "criteria": {
+      "has_chest": "2025-02-24 21:59:58 +0100"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/spruce_drawers": {
+    "criteria": {
+      "has_chest": "2025-02-24 21:59:58 +0100"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/mangrove_trim": {
+    "criteria": {
+      "has_planks": "2025-02-24 21:59:58 +0100"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/redstone_upgrade": {
+    "criteria": {
+      "has_template": "2025-02-24 21:59:58 +0100"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/spruce_trim": {
+    "criteria": {
+      "has_planks": "2025-02-24 21:59:58 +0100"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/quantify_key": {
+    "criteria": {
+      "has_template": "2025-02-24 21:59:58 +0100"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/dark_oak_trim": {
+    "criteria": {
+      "has_planks": "2025-02-24 21:59:58 +0100"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/balance_fill_upgrade": {
+    "criteria": {
+      "has_template": "2025-02-24 21:59:58 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2025-02-24 21:59:59 +0100"
+    },
+    "done": false
+  },
+  "integrateddynamics:root": {
+    "criteria": {
+      "criteria_0": "2025-02-24 22:00:12 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-02-24 22:04:02 +0100"
+    },
+    "done": true
+  },
+  "industrialforegoing:recipes/misc/machine_frame_pity": {
+    "criteria": {
+      "has_item": "2025-02-24 22:04:02 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2025-02-24 22:04:02 +0100"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/sc_manual": {
+    "criteria": {
+      "has_wood": "2025-02-24 22:04:02 +0100"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/stick": {
+    "criteria": {
+      "has_ingredient": "2025-02-24 22:04:02 +0100"
+    },
+    "done": true
+  },
+  "rftoolsbuilder:recipes/misc/mover": {
+    "criteria": {
+      "machine_frame": "2025-02-25 21:09:34 +0100"
+    },
+    "done": true
+  },
+  "rftoolsbuilder:recipes/misc/mover_controller": {
+    "criteria": {
+      "machine_frame": "2025-02-25 21:09:34 +0100"
+    },
+    "done": true
+  },
+  "rftoolsbuilder:recipes/misc/space_chamber_controller": {
+    "criteria": {
+      "machine_frame": "2025-02-25 21:09:34 +0100"
+    },
+    "done": true
+  },
+  "rftoolsbuilder:recipes/misc/mover_status": {
+    "criteria": {
+      "machine_frame": "2025-02-25 21:09:34 +0100"
+    },
+    "done": true
+  },
+  "rftoolsbuilder:recipes/misc/mover_control_back": {
+    "criteria": {
+      "machine_frame": "2025-02-25 21:09:34 +0100"
+    },
+    "done": true
+  },
+  "xnet:recipes/misc/router": {
+    "criteria": {
+      "frame": "2025-02-25 21:09:34 +0100"
+    },
+    "done": true
+  },
+  "rftoolsbuilder:recipes/misc/mover_control": {
+    "criteria": {
+      "machine_frame": "2025-02-25 21:09:34 +0100"
+    },
+    "done": true
+  },
+  "rftoolsbuilder:recipes/misc/space_chamber": {
+    "criteria": {
+      "machine_frame": "2025-02-25 21:09:34 +0100"
+    },
+    "done": true
+  },
+  "xnet:recipes/misc/controller": {
+    "criteria": {
+      "frame": "2025-02-25 21:09:34 +0100"
+    },
+    "done": true
+  },
+  "rftoolsbuilder:recipes/misc/shield_block1": {
+    "criteria": {
+      "machine_frame": "2025-02-25 21:09:34 +0100"
+    },
+    "done": true
+  },
+  "rftoolsbuilder:recipes/misc/shield_block2": {
+    "criteria": {
+      "machine_frame": "2025-02-25 21:09:34 +0100"
+    },
+    "done": true
+  },
+  "rftoolsbuilder:recipes/misc/shield_block3": {
+    "criteria": {
+      "machine_frame": "2025-02-25 21:09:34 +0100"
+    },
+    "done": true
+  },
+  "rftoolsbuilder:recipes/misc/shield_block4": {
+    "criteria": {
+      "machine_frame": "2025-02-25 21:09:34 +0100"
+    },
+    "done": true
+  },
+  "rftoolsbuilder:recipes/misc/builder": {
+    "criteria": {
+      "machine_frame": "2025-02-25 21:09:34 +0100"
+    },
+    "done": true
+  },
+  "xnet:recipes/misc/wireless_router": {
+    "criteria": {
+      "frame": "2025-02-25 21:09:34 +0100"
+    },
+    "done": true
+  },
+  "xnet:recipes/misc/redstone_proxy": {
+    "criteria": {
+      "frame": "2025-02-25 21:09:34 +0100"
+    },
+    "done": true
+  },
+  "rftoolsbuilder:recipes/misc/vehicle_builder": {
+    "criteria": {
+      "machine_frame": "2025-02-25 21:09:34 +0100"
+    },
+    "done": true
+  },
+  "rftoolsbuilder:recipes/misc/mover_control3": {
+    "criteria": {
+      "machine_frame": "2025-02-25 21:09:34 +0100"
+    },
+    "done": true
+  },
+  "rftoolsbuilder:recipes/misc/mover_control2": {
+    "criteria": {
+      "machine_frame": "2025-02-25 21:09:34 +0100"
+    },
+    "done": true
+  },
+  "rftoolsbuilder:recipes/misc/mover_control4": {
+    "criteria": {
+      "machine_frame": "2025-02-25 21:09:34 +0100"
+    },
+    "done": true
+  },
+  "extendedae:recipes/misc/assembler_matrix_frame": {
+    "criteria": {
+      "has_item": "2025-02-25 21:09:43 +0100"
+    },
+    "done": true
+  },
+  "extendedae:recipes/misc/crystal_assembler": {
+    "criteria": {
+      "has_item": "2025-02-25 21:09:43 +0100"
+    },
+    "done": true
+  },
+  "powah:recipes/misc/crafting/player_tranmitter_spirited": {
+    "criteria": {
+      "has_dielectric_casing": "2025-02-25 21:10:07 +0100"
+    },
+    "done": true
+  },
+  "powah:recipes/misc/crafting/energy_hopper_niotic": {
+    "criteria": {
+      "has_dielectric_casing": "2025-02-25 21:10:07 +0100"
+    },
+    "done": true
+  },
+  "powah:recipes/misc/crafting/player_tranmitter_starter": {
+    "criteria": {
+      "has_dielectric_casing": "2025-02-25 21:10:07 +0100"
+    },
+    "done": true
+  },
+  "powah:recipes/misc/crafting/magmator_starter": {
+    "criteria": {
+      "has_dielectric_casing": "2025-02-25 21:10:07 +0100"
+    },
+    "done": true
+  },
+  "powah:recipes/misc/crafting/energy_cell_basic": {
+    "criteria": {
+      "has_dielectric_casing": "2025-02-25 21:10:07 +0100"
+    },
+    "done": true
+  },
+  "powah:recipes/misc/crafting/furnator_starter": {
+    "criteria": {
+      "has_dielectric_casing": "2025-02-25 21:10:07 +0100"
+    },
+    "done": true
+  },
+  "powah:recipes/misc/crafting/magmator_basic": {
+    "criteria": {
+      "has_dielectric_casing": "2025-02-25 21:10:07 +0100"
+    },
+    "done": true
+  },
+  "powah:recipes/misc/crafting/player_tranmitter_basic": {
+    "criteria": {
+      "has_dielectric_casing": "2025-02-25 21:10:07 +0100"
+    },
+    "done": true
+  },
+  "powah:recipes/misc/crafting/player_tranmitter_hardened": {
+    "criteria": {
+      "has_dielectric_casing": "2025-02-25 21:10:07 +0100"
+    },
+    "done": true
+  },
+  "powah:recipes/misc/crafting/magmator_nitro": {
+    "criteria": {
+      "has_dielectric_casing": "2025-02-25 21:10:07 +0100"
+    },
+    "done": true
+  },
+  "powah:recipes/misc/crafting/solar_panel_spirited": {
+    "criteria": {
+      "has_dielectric_casing": "2025-02-25 21:10:07 +0100"
+    },
+    "done": true
+  },
+  "powah:recipes/misc/crafting/energy_cell_nitro": {
+    "criteria": {
+      "has_dielectric_casing": "2025-02-25 21:10:07 +0100"
+    },
+    "done": true
+  },
+  "powah:recipes/misc/crafting/player_tranmitter_nitro": {
+    "criteria": {
+      "has_dielectric_casing": "2025-02-25 21:10:07 +0100"
+    },
+    "done": true
+  },
+  "powah:recipes/misc/crafting/energy_discharger_niotic": {
+    "criteria": {
+      "has_dielectric_casing": "2025-02-25 21:10:07 +0100"
+    },
+    "done": true
+  },
+  "powah:recipes/misc/crafting/energizing_rod_niotic": {
+    "criteria": {
+      "has_dielectric_casing": "2025-02-25 21:10:07 +0100"
+    },
+    "done": true
+  },
+  "powah:recipes/misc/crafting/magmator_hardened": {
+    "criteria": {
+      "has_dielectric_casing": "2025-02-25 21:10:07 +0100"
+    },
+    "done": true
+  },
+  "powah:recipes/misc/crafting/energy_cell_hardened": {
+    "criteria": {
+      "has_dielectric_casing": "2025-02-25 21:10:07 +0100"
+    },
+    "done": true
+  },
+  "powah:recipes/misc/crafting/energy_discharger_basic": {
+    "criteria": {
+      "has_dielectric_casing": "2025-02-25 21:10:07 +0100"
+    },
+    "done": true
+  },
+  "powah:recipes/misc/crafting/solar_panel_starter": {
+    "criteria": {
+      "has_dielectric_casing": "2025-02-25 21:10:07 +0100"
+    },
+    "done": true
+  },
+  "powah:recipes/misc/crafting/energizing_orb": {
+    "criteria": {
+      "has_dielectric_casing": "2025-02-25 21:10:07 +0100"
+    },
+    "done": true
+  },
+  "powah:recipes/misc/crafting/solar_panel_hardened": {
+    "criteria": {
+      "has_dielectric_casing": "2025-02-25 21:10:07 +0100"
+    },
+    "done": true
+  },
+  "powah:recipes/misc/crafting/energy_discharger_nitro": {
+    "criteria": {
+      "has_dielectric_casing": "2025-02-25 21:10:07 +0100"
+    },
+    "done": true
+  },
+  "powah:recipes/misc/crafting/energy_cell_blazing": {
+    "criteria": {
+      "has_dielectric_casing": "2025-02-25 21:10:07 +0100"
+    },
+    "done": true
+  },
+  "powah:recipes/misc/crafting/furnator_niotic": {
+    "criteria": {
+      "has_dielectric_casing": "2025-02-25 21:10:07 +0100"
+    },
+    "done": true
+  },
+  "powah:recipes/misc/crafting/energy_cell_niotic": {
+    "criteria": {
+      "has_dielectric_casing": "2025-02-25 21:10:07 +0100"
+    },
+    "done": true
+  },
+  "powah:recipes/misc/crafting/magmator_blazing": {
+    "criteria": {
+      "has_dielectric_casing": "2025-02-25 21:10:07 +0100"
+    },
+    "done": true
+  },
+  "powah:recipes/misc/crafting/solar_panel_blazing": {
+    "criteria": {
+      "has_dielectric_casing": "2025-02-25 21:10:07 +0100"
+    },
+    "done": true
+  },
+  "powah:recipes/misc/crafting/energy_cell_spirited": {
+    "criteria": {
+      "has_dielectric_casing": "2025-02-25 21:10:07 +0100"
+    },
+    "done": true
+  },
+  "powah:recipes/misc/crafting/magmator_niotic": {
+    "criteria": {
+      "has_dielectric_casing": "2025-02-25 21:10:07 +0100"
+    },
+    "done": true
+  },
+  "powah:recipes/misc/crafting/energy_hopper_spirited": {
+    "criteria": {
+      "has_dielectric_casing": "2025-02-25 21:10:07 +0100"
+    },
+    "done": true
+  },
+  "powah:recipes/misc/crafting/furnator_hardened": {
+    "criteria": {
+      "has_dielectric_casing": "2025-02-25 21:10:07 +0100"
+    },
+    "done": true
+  },
+  "powah:recipes/misc/crafting/player_tranmitter_niotic": {
+    "criteria": {
+      "has_dielectric_casing": "2025-02-25 21:10:07 +0100"
+    },
+    "done": true
+  },
+  "powah:recipes/misc/crafting/energizing_rod_blazing": {
+    "criteria": {
+      "has_dielectric_casing": "2025-02-25 21:10:07 +0100"
+    },
+    "done": true
+  },
+  "powah:recipes/misc/crafting/energy_cell_basic_2": {
+    "criteria": {
+      "has_dielectric_casing": "2025-02-25 21:10:07 +0100"
+    },
+    "done": true
+  },
+  "powah:recipes/misc/crafting/energy_hopper_starter": {
+    "criteria": {
+      "has_dielectric_casing": "2025-02-25 21:10:07 +0100"
+    },
+    "done": true
+  },
+  "powah:recipes/misc/crafting/energizing_rod_spirited": {
+    "criteria": {
+      "has_dielectric_casing": "2025-02-25 21:10:07 +0100"
+    },
+    "done": true
+  },
+  "powah:recipes/misc/crafting/solar_panel_basic": {
+    "criteria": {
+      "has_dielectric_casing": "2025-02-25 21:10:07 +0100"
+    },
+    "done": true
+  },
+  "powah:recipes/misc/crafting/energy_hopper_hardened": {
+    "criteria": {
+      "has_dielectric_casing": "2025-02-25 21:10:07 +0100"
+    },
+    "done": true
+  },
+  "powah:recipes/misc/crafting/magmator_spirited": {
+    "criteria": {
+      "has_dielectric_casing": "2025-02-25 21:10:07 +0100"
+    },
+    "done": true
+  },
+  "powah:recipes/misc/crafting/energy_discharger_starter": {
+    "criteria": {
+      "has_dielectric_casing": "2025-02-25 21:10:07 +0100"
+    },
+    "done": true
+  },
+  "powah:recipes/misc/crafting/player_tranmitter_blazing": {
+    "criteria": {
+      "has_dielectric_casing": "2025-02-25 21:10:07 +0100"
+    },
+    "done": true
+  },
+  "powah:recipes/misc/crafting/solar_panel_nitro": {
+    "criteria": {
+      "has_dielectric_casing": "2025-02-25 21:10:07 +0100"
+    },
+    "done": true
+  },
+  "powah:recipes/misc/crafting/energizing_rod_hardened": {
+    "criteria": {
+      "has_dielectric_casing": "2025-02-25 21:10:07 +0100"
+    },
+    "done": true
+  },
+  "powah:recipes/misc/crafting/energy_cell_starter": {
+    "criteria": {
+      "has_dielectric_casing": "2025-02-25 21:10:07 +0100"
+    },
+    "done": true
+  },
+  "powah:recipes/misc/crafting/furnator_spirited": {
+    "criteria": {
+      "has_dielectric_casing": "2025-02-25 21:10:07 +0100"
+    },
+    "done": true
+  },
+  "powah:recipes/misc/crafting/solar_panel_niotic": {
+    "criteria": {
+      "has_dielectric_casing": "2025-02-25 21:10:07 +0100"
+    },
+    "done": true
+  },
+  "powah:recipes/misc/crafting/furnator_basic": {
+    "criteria": {
+      "has_dielectric_casing": "2025-02-25 21:10:07 +0100"
+    },
+    "done": true
+  },
+  "powah:recipes/misc/crafting/furnator_nitro": {
+    "criteria": {
+      "has_dielectric_casing": "2025-02-25 21:10:07 +0100"
+    },
+    "done": true
+  },
+  "powah:recipes/misc/crafting/furnator_blazing": {
+    "criteria": {
+      "has_dielectric_casing": "2025-02-25 21:10:07 +0100"
+    },
+    "done": true
+  },
+  "powah:recipes/misc/crafting/energy_discharger_hardened": {
+    "criteria": {
+      "has_dielectric_casing": "2025-02-25 21:10:07 +0100"
+    },
+    "done": true
+  },
+  "powah:recipes/misc/crafting/energy_discharger_blazing": {
+    "criteria": {
+      "has_dielectric_casing": "2025-02-25 21:10:07 +0100"
+    },
+    "done": true
+  },
+  "powah:recipes/misc/crafting/energizing_rod_basic": {
+    "criteria": {
+      "has_dielectric_casing": "2025-02-25 21:10:07 +0100"
+    },
+    "done": true
+  },
+  "powah:recipes/misc/crafting/reactor_starter": {
+    "criteria": {
+      "has_dielectric_casing": "2025-02-25 21:10:07 +0100"
+    },
+    "done": true
+  },
+  "powah:recipes/misc/crafting/energizing_rod_nitro": {
+    "criteria": {
+      "has_dielectric_casing": "2025-02-25 21:10:07 +0100"
+    },
+    "done": true
+  },
+  "powah:recipes/misc/crafting/energizing_rod_starter": {
+    "criteria": {
+      "has_dielectric_casing": "2025-02-25 21:10:07 +0100"
+    },
+    "done": true
+  },
+  "powah:recipes/misc/crafting/energy_hopper_basic": {
+    "criteria": {
+      "has_dielectric_casing": "2025-02-25 21:10:07 +0100"
+    },
+    "done": true
+  },
+  "powah:recipes/misc/crafting/energy_hopper_nitro": {
+    "criteria": {
+      "has_dielectric_casing": "2025-02-25 21:10:07 +0100"
+    },
+    "done": true
+  },
+  "powah:recipes/misc/crafting/energy_hopper_blazing": {
+    "criteria": {
+      "has_dielectric_casing": "2025-02-25 21:10:07 +0100"
+    },
+    "done": true
+  },
+  "powah:recipes/misc/crafting/energy_discharger_spirited": {
+    "criteria": {
+      "has_dielectric_casing": "2025-02-25 21:10:07 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-02-25 21:10:10 +0100"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/misc/oak_compressed_sieve": {
+    "criteria": {
+      "has_item": "2025-02-25 21:17:37 +0100"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/misc/oak_crucible": {
+    "criteria": {
+      "has_item": "2025-02-25 21:17:37 +0100"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/oak_log_1x": {
+    "criteria": {
+      "has_oak_log": "2025-02-25 21:17:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-02-25 21:17:37 +0100"
+    },
+    "done": true
+  },
+  "actuallyadditions:craft_coffee_machine": {
+    "criteria": {
+      "coffee_machine": "2025-02-27 16:43:24 +0100"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/grass_block_1x": {
+    "criteria": {
+      "has_grass_block": "2025-02-27 16:43:28 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-03-02 16:49:27 +0100"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/clear_glass_black_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-03-06 17:31:34 +0100"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/scratched_glass_black2": {
+    "criteria": {
+      "recipe_condition2": "2025-03-06 17:31:34 +0100"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/scratched_glass_black_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-03-06 17:31:34 +0100"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/clear_glass_black2": {
+    "criteria": {
+      "recipe_condition2": "2025-03-06 17:31:34 +0100"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/tinted_borderless_glass_black2": {
+    "criteria": {
+      "recipe_condition2": "2025-03-06 17:31:34 +0100"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_black": {
+    "criteria": {
+      "has_dyes/black": "2025-03-06 17:31:34 +0100"
+    },
+    "done": true
+  },
+  "computercraft:recipes/redstone/turtle_advanced_overlays/rainbow_flag": {
+    "criteria": {
+      "has_dye": "2025-03-06 17:31:34 +0100"
+    },
+    "done": true
+  },
+  "computercraft:recipes/redstone/turtle_normal_overlays/rainbow_flag": {
+    "criteria": {
+      "has_dye": "2025-03-06 17:31:34 +0100"
+    },
+    "done": true
+  },
+  "computercraft:recipes/redstone/turtle_advanced_overlays/trans_flag": {
+    "criteria": {
+      "has_dye": "2025-03-06 17:31:34 +0100"
+    },
+    "done": true
+  },
+  "comforts:recipes/building_blocks/dye_sleeping_bag_black": {
+    "criteria": {
+      "has_needed_dye": "2025-03-06 17:31:34 +0100"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_black2": {
+    "criteria": {
+      "recipe_condition2": "2025-03-06 17:31:34 +0100"
+    },
+    "done": true
+  },
+  "sfm:recipes/misc/labelgun": {
+    "criteria": {
+      "has_ink": "2025-03-06 17:31:34 +0100"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_covered_black": {
+    "criteria": {
+      "has_dyes/black": "2025-03-06 17:31:34 +0100"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_black_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-03-06 17:31:34 +0100"
+    },
+    "done": true
+  },
+  "comforts:recipes/building_blocks/dye_hammock_black": {
+    "criteria": {
+      "has_needed_dye": "2025-03-06 17:31:34 +0100"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_smart_black": {
+    "criteria": {
+      "has_dyes/black": "2025-03-06 17:31:34 +0100"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_black": {
+    "criteria": {
+      "has_dyes/black": "2025-03-06 17:31:34 +0100"
+    },
+    "done": true
+  },
+  "computercraft:recipes/redstone/turtle_normal_overlays/trans_flag": {
+    "criteria": {
+      "has_dye": "2025-03-06 17:31:34 +0100"
+    },
+    "done": true
+  },
+  "mekanism:steel_casing": {
+    "criteria": {
+      "steel_casing": "2025-03-06 17:31:42 +0100"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/redstone_alloy_ingot": {
+    "criteria": {
+      "has_ingredient": "2025-03-07 21:47:11 +0100"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/redstone_alloy_block_1x": {
+    "criteria": {
+      "has_redstone_alloy_block": "2025-03-07 21:47:11 +0100"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/redstone_alloy_block": {
+    "criteria": {
+      "has_ingredient": "2025-03-07 21:47:11 +0100"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/pneumatic_dynamo": {
+    "criteria": {
+      "has_printed_circuit_board": "2025-03-07 21:49:44 +0100"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/security_station": {
+    "criteria": {
+      "has_printed_circuit_board": "2025-03-07 21:49:44 +0100"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/pneumatic_boots": {
+    "criteria": {
+      "has_printed_circuit_board": "2025-03-07 21:49:44 +0100"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/solar_compressor": {
+    "criteria": {
+      "has_printed_circuit_board": "2025-03-07 21:49:44 +0100"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/module_expansion_card": {
+    "criteria": {
+      "has_printed_circuit_board": "2025-03-07 21:49:44 +0100"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/flux_compressor": {
+    "criteria": {
+      "has_printed_circuit_board": "2025-03-07 21:49:44 +0100"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/pneumatic_chestplate": {
+    "criteria": {
+      "has_printed_circuit_board": "2025-03-07 21:49:44 +0100"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/pneumatic_helmet": {
+    "criteria": {
+      "has_printed_circuit_board": "2025-03-07 21:49:44 +0100"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/drone": {
+    "criteria": {
+      "has_printed_circuit_board": "2025-03-07 21:49:44 +0100"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/assembly_program_drill_laser": {
+    "criteria": {
+      "has_printed_circuit_board": "2025-03-07 21:49:44 +0100"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/assembly_io_unit_import_from_export": {
+    "criteria": {
+      "has_printed_circuit_board": "2025-03-07 21:49:44 +0100"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/assembly_laser": {
+    "criteria": {
+      "has_printed_circuit_board": "2025-03-07 21:49:44 +0100"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/programming_puzzle": {
+    "criteria": {
+      "has_printed_circuit_board": "2025-03-07 21:49:44 +0100"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/assembly_io_unit_export_from_import": {
+    "criteria": {
+      "has_printed_circuit_board": "2025-03-07 21:49:44 +0100"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/assembly_platform": {
+    "criteria": {
+      "has_printed_circuit_board": "2025-03-07 21:49:44 +0100"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/assembly_drill": {
+    "criteria": {
+      "has_printed_circuit_board": "2025-03-07 21:49:44 +0100"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/radiation_shielding_upgrade": {
+    "criteria": {
+      "has_printed_circuit_board": "2025-03-07 21:49:44 +0100"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/drone_interface": {
+    "criteria": {
+      "has_printed_circuit_board": "2025-03-07 21:49:44 +0100"
+    },
+    "done": true
+  },
+  "pneumaticcraft:printed_circuit_board": {
+    "criteria": {
+      "0": "2025-03-07 21:49:44 +0100"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/assembly_controller": {
+    "criteria": {
+      "has_printed_circuit_board": "2025-03-07 21:49:44 +0100"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/assembly_io_unit_export": {
+    "criteria": {
+      "has_printed_circuit_board": "2025-03-07 21:49:44 +0100"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/assembly_io_unit_import": {
+    "criteria": {
+      "has_printed_circuit_board": "2025-03-07 21:49:44 +0100"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/programmer": {
+    "criteria": {
+      "has_printed_circuit_board": "2025-03-07 21:49:44 +0100"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/programmable_controller": {
+    "criteria": {
+      "has_printed_circuit_board": "2025-03-07 21:49:44 +0100"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/pneumatic_leggings": {
+    "criteria": {
+      "has_printed_circuit_board": "2025-03-07 21:49:44 +0100"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/micromissiles": {
+    "criteria": {
+      "has_printed_circuit_board": "2025-03-07 21:49:44 +0100"
+    },
+    "done": true
+  },
+  "extendedae:recipes/misc/entro_block_unpack": {
+    "criteria": {
+      "has_item": "2025-03-07 21:55:02 +0100"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/entro_block_1x": {
+    "criteria": {
+      "has_entro_block": "2025-03-07 21:55:02 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/sheetmetal_colored_brown": {
+    "criteria": {
+      "has_sheetmetal": "2025-03-07 21:55:44 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/sheetmetal_colored_orange": {
+    "criteria": {
+      "has_sheetmetal": "2025-03-07 21:55:44 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/chute_colored_white": {
+    "criteria": {
+      "has_sheetmetal": "2025-03-07 21:55:44 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/sheetmetal_colored_green": {
+    "criteria": {
+      "has_sheetmetal": "2025-03-07 21:55:44 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/sheetmetal_colored_black": {
+    "criteria": {
+      "has_sheetmetal": "2025-03-07 21:55:44 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/sheetmetal_colored_white": {
+    "criteria": {
+      "has_sheetmetal": "2025-03-07 21:55:44 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/sheetmetal_colored_white_to_slab": {
+    "criteria": {
+      "has_sheetmetal_colored_white": "2025-03-07 21:55:44 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/sheetmetal_colored_lime": {
+    "criteria": {
+      "has_sheetmetal": "2025-03-07 21:55:44 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/sheetmetal_colored_white_from_slab": {
+    "criteria": {
+      "has_sheetmetal_colored_white": "2025-03-07 21:55:44 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/sheetmetal_colored_blue": {
+    "criteria": {
+      "has_sheetmetal": "2025-03-07 21:55:44 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/sheetmetal_colored_red": {
+    "criteria": {
+      "has_sheetmetal": "2025-03-07 21:55:44 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/sheetmetal_colored_magenta": {
+    "criteria": {
+      "has_sheetmetal": "2025-03-07 21:55:44 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/sheetmetal_colored_gray": {
+    "criteria": {
+      "has_sheetmetal": "2025-03-07 21:55:44 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/sheetmetal_colored_light_gray": {
+    "criteria": {
+      "has_sheetmetal": "2025-03-07 21:55:44 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/sheetmetal_colored_purple": {
+    "criteria": {
+      "has_sheetmetal": "2025-03-07 21:55:44 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/chute_colored_white_dyeing": {
+    "criteria": {
+      "has_sheetmetal": "2025-03-07 21:55:44 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/sheetmetal_colored_pink": {
+    "criteria": {
+      "has_sheetmetal": "2025-03-07 21:55:44 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/sheetmetal_colored_yellow": {
+    "criteria": {
+      "has_sheetmetal": "2025-03-07 21:55:44 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/sheetmetal_colored_cyan": {
+    "criteria": {
+      "has_sheetmetal": "2025-03-07 21:55:44 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/sheetmetal_colored_light_blue": {
+    "criteria": {
+      "has_sheetmetal": "2025-03-07 21:55:44 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-03-09 07:55:52 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-03-09 07:56:23 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-03-09 07:56:23 +0100"
+    },
+    "done": true
+  },
+  "matc:recipes/misc/inferium_crystal": {
+    "criteria": {
+      "has_inferium_essence": "2025-03-09 07:56:23 +0100"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/dirt_1x": {
+    "criteria": {
+      "has_dirt": "2025-03-09 07:57:05 +0100"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/vanilla_dirt_chest": {
+    "criteria": {
+      "has_iron_ingot": "2025-03-09 07:57:05 +0100"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/stirling_generator": {
+    "criteria": {
+      "has_ingredient": "2025-03-09 08:57:26 +0100"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/drain": {
+    "criteria": {
+      "has_ingredient": "2025-03-09 08:57:26 +0100"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/painting_machine": {
+    "criteria": {
+      "has_ingredient": "2025-03-09 08:57:26 +0100"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/sag_mill": {
+    "criteria": {
+      "has_ingredient": "2025-03-09 08:57:26 +0100"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/alloy_smelter": {
+    "criteria": {
+      "has_ingredient": "2025-03-09 08:57:26 +0100"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/wired_charger": {
+    "criteria": {
+      "has_ingredient": "2025-03-09 08:57:26 +0100"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/crafter": {
+    "criteria": {
+      "has_ingredient": "2025-03-09 08:57:26 +0100"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/impulse_hopper": {
+    "criteria": {
+      "has_ingredient": "2025-03-09 08:57:26 +0100"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/soul_binder": {
+    "criteria": {
+      "has_ingredient": "2025-03-09 08:57:27 +0100"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/slice_and_splice": {
+    "criteria": {
+      "has_ingredient": "2025-03-09 08:57:27 +0100"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/powered_spawner": {
+    "criteria": {
+      "has_ingredient": "2025-03-09 08:57:27 +0100"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/soul_engine": {
+    "criteria": {
+      "has_ingredient": "2025-03-09 08:57:27 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/main_root": {
+    "criteria": {
+      "has_item": "2025-03-09 09:10:20 +0100"
+    },
+    "done": true
+  },
+  "supplementaries:adventure/way_sign": {
+    "criteria": {
+      "bastion": "2025-03-09 09:30:16 +0100"
+    },
+    "done": true
+  },
+  "lootr:root": {
+    "criteria": {
+      "always_true": "2025-03-10 16:57:51 +0100"
+    },
+    "done": true
+  },
+  "just_bees:welcome_to_the_just_bees": {
+    "criteria": {
+      "welcome_to_the_just_bees_0": "2025-03-11 19:52:22 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2025-03-12 08:45:59 +0100"
+    },
+    "done": true
+  },
+  "eternalores:recipes/building_blocks/compressed/dirt_1x_compressed_block": {
+    "criteria": {
+      "has_dirt_1x_ingot": "2025-03-14 12:24:26 +0100"
+    },
+    "done": true
+  },
+  "DataVersion": 3955
+}

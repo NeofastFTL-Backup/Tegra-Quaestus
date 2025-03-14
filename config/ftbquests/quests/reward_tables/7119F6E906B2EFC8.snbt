@@ -1,0 +1,36 @@
+{
+	id: "7119F6E906B2EFC8"
+	loot_size: 1
+	order_index: 0
+	rewards: [
+		{ id: "78E96899445EBDE8", item: { components: { "patchouli:book": "mffs:handbook" }, count: 1, id: "patchouli:guide_book" } }
+		{ id: "0FF27E2A3E0F7AFA", item: { components: { "patchouli:book": "industrialforegoing:industrial_foregoing" }, count: 1, id: "patchouli:guide_book" } }
+		{ id: "027CA5D2A9B486F1", item: { components: { "patchouli:book": "pneumaticcraft:book" }, count: 1, id: "patchouli:guide_book" } }
+		{ id: "57C3095C8094EEC8", item: { components: { "patchouli:book": "extendedcrafting:guide" }, count: 1, id: "patchouli:guide_book" } }
+		{ id: "18030AD159C828BF", item: { components: { "patchouli:book": "bigreactors:erguide" }, count: 1, id: "patchouli:guide_book" } }
+		{ id: "5D9F702E8C49ED1B", item: { components: { "patchouli:book": "justdirethings:justdirethingsbook" }, count: 1, id: "patchouli:guide_book" } }
+		{ id: "677AB22BF1A33AF3", item: { components: { "patchouli:book": "mysticalagriculture:guide" }, count: 1, id: "patchouli:guide_book" } }
+		{ id: "472C2E6D6181E441", item: { components: { "patchouli:book": "laserio:laseriobook" }, count: 1, id: "patchouli:guide_book" } }
+		{ id: "4F6121B66283AB13", item: { components: { "patchouli:book": "buildinggadgets2:buildinggadgets2book" }, count: 1, id: "patchouli:guide_book" } }
+		{ id: "2B0FE4D6EE7EA328", item: { components: { "patchouli:book": "modularrouters:book" }, count: 1, id: "patchouli:guide_book" } }
+		{ id: "1736648B6435EE3E", item: { count: 1, id: "modern_industrialization:guidebook" } }
+		{ id: "5DD171FD6EA54983", item: { count: 1, id: "powah:book" } }
+		{ id: "15126752BE09DD6F", item: { count: 1, id: "immersiveengineering:manual" } }
+		{ id: "78689D81FC9402F5", item: { count: 1, id: "securitycraft:sc_manual" } }
+		{ id: "3D236E26F7599AFB", item: { count: 1, id: "actuallyadditions:booklet" } }
+		{
+			auto: "enabled"
+			command: "/say This will be the only help....  @p"
+			elevate_perms: true
+			feedback_message: "POV: Are you for real right now?"
+			id: "6FF32BB6F41F28FD"
+			type: "command"
+		}
+		{
+			command: "/say @p : Are you for real right now?"
+			elevate_perms: true
+			id: "6CE6201C8F58422B"
+			type: "command"
+		}
+	]
+}
